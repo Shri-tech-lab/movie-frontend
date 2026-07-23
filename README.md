@@ -1,4 +1,4 @@
-# 🎬 Movie Frontend
+# 🎬 Movie app
 
 A modern and responsive movie browsing web application built with **React**. The application allows users to discover trending movies, search for their favorite films, and view detailed movie information through a clean and user-friendly interface.
 
