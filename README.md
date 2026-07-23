@@ -117,7 +117,7 @@ git commit -m "Added new feature"
 git push origin feature-name
 ```
 
-5. Open a Pull Request
+LIVE DEMO -  https://shri-tech-lab.github.io/movie-frontend/
 
 ---
 
